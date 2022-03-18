@@ -1,6 +1,6 @@
 # sample
 
-> DPteam common sample project
+> Nuxt.js Sample-project
 
 ## Build Setup
 
